@@ -150,4 +150,4 @@ dmypy.json
 
 # Custom
 config/settings.py
-.vscode
+.vscode/
